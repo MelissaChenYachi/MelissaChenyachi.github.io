@@ -2,6 +2,7 @@
  
 	"colors.css" has statements that overrides same named
 	statements in main CSS file -> "style.css".
+<<<<<<< HEAD
  
 	You can change color code on some existing statement
 	or add your own.
@@ -12,6 +13,18 @@
  <body id="blue">
  
  =================================================================*/
+=======
+
+	You can change color code on some existing statement
+	or add your own.
+
+	To apply particular color scheme just add id name to
+	body tag in index.html page. See example:
+
+		<body id="blue">
+ 
+=================================================================*/
+>>>>>>> ecfce5516649226c9f9c25106a1dfd38ba1bae0c
 
 
 
@@ -272,6 +285,7 @@
 #cyan .btn-custom.empty,
 #pink .btn-custom.empty,
 #orange .btn-custom.empty {color: #fff;}
+<<<<<<< HEAD
 #red .orange, #red .red,
 #red .purple, #red .blue,
 #red .cyan, #red .green,
@@ -319,6 +333,55 @@
 #orange .orange:hover, #orange .red:hover,
 #orange .purple:hover, #orange .blue:hover,
 #orange .cyan:hover, #orange .green:hover,
+=======
+#red .orange, #red .red, 
+#red .purple, #red .blue, 
+#red .cyan, #red .green,
+#red .gray, #red .black,
+#blue .orange, #blue .red, 
+#blue .purple, #blue .blue, 
+#blue .cyan, #blue .green,
+#blue .gray, #blue .black,
+#green .orange, #green .red, 
+#green .purple, #green .blue, 
+#green .cyan, #green .green,
+#green .gray, #green .black,
+#cyan .orange, #cyan .red, 
+#cyan .purple, #cyan .blue, 
+#cyan .cyan, #cyan .green,
+#cyan .gray, #cyan .black,
+#pink .orange, #pink .red, 
+#pink .purple, #pink .blue, 
+#pink .cyan, #pink .green,
+#pink .gray, #pink .black,
+#orange .orange, #orange .red, 
+#orange .purple, #orange .blue, 
+#orange .cyan, #orange .green,
+#orange .gray, #orange .black {color: #f3f7f9;}
+#red .orange:hover, #red .red:hover, 
+#red .purple:hover, #red .blue:hover, 
+#red .cyan:hover, #red .green:hover, 
+#red .gray:hover, #red .black:hover,
+#blue .orange:hover, #blue .red:hover, 
+#blue .purple:hover, #blue .blue:hover, 
+#blue .cyan:hover, #blue .green:hover, 
+#blue .gray:hover, #blue .black:hover,
+#green .orange:hover, #green .red:hover, 
+#green .purple:hover, #green .blue:hover, 
+#green .cyan:hover, #green .green:hover, 
+#green .gray:hover, #green .black:hover,
+#cyan .orange:hover, #cyan .red:hover, 
+#cyan .purple:hover, #cyan .blue:hover, 
+#cyan .cyan:hover, #cyan .green:hover, 
+#cyan .gray:hover, #cyan .black:hover,
+#pink .orange:hover, #pink .red:hover, 
+#pink .purple:hover, #pink .blue:hover, 
+#pink .cyan:hover, #pink .green:hover, 
+#pink .gray:hover, #pink .black:hover,
+#orange .orange:hover, #orange .red:hover, 
+#orange .purple:hover, #orange .blue:hover, 
+#orange .cyan:hover, #orange .green:hover, 
+>>>>>>> ecfce5516649226c9f9c25106a1dfd38ba1bae0c
 #orange .gray:hover, #orange .black:hover {color: #f3f7f9;}
 #red .btn-custom.yellow.empty,
 #blue .btn-custom.yellow.empty,
@@ -393,6 +456,7 @@
 #pink .disabled a,
 #orange .disabled a {color: #999;}
 #red .btn-info,
+<<<<<<< HEAD
 #red .btn-info:hover,
 #red .btn-success,
 #red .btn-success:hover,
@@ -438,6 +502,53 @@
 #orange .btn-success:hover,
 #orange .btn-danger,
 #orange .btn-danger:hover,
+=======
+#red .btn-info:hover, 
+#red .btn-success,
+#red .btn-success:hover,
+#red .btn-danger,
+#red .btn-danger:hover, 
+#red .btn-warning,
+#red .btn-warning:hover,
+#blue .btn-info,
+#blue .btn-info:hover, 
+#blue .btn-success,
+#blue .btn-success:hover,
+#blue .btn-danger,
+#blue .btn-danger:hover, 
+#blue .btn-warning,
+#blue .btn-warning:hover,
+#green .btn-info,
+#green .btn-info:hover, 
+#green .btn-success,
+#green .btn-success:hover,
+#green .btn-danger,
+#green .btn-danger:hover, 
+#green .btn-warning,
+#green .btn-warning:hover,
+#cyan .btn-info,
+#cyan .btn-info:hover, 
+#cyan .btn-success,
+#cyan .btn-success:hover,
+#cyan .btn-danger,
+#cyan .btn-danger:hover, 
+#cyan .btn-warning,
+#cyan .btn-warning:hover,
+#pink .btn-info,
+#pink .btn-info:hover, 
+#pink .btn-success,
+#pink .btn-success:hover,
+#pink .btn-danger,
+#pink .btn-danger:hover, 
+#pink .btn-warning,
+#pink .btn-warning:hover,
+#orange .btn-info,
+#orange .btn-info:hover, 
+#orange .btn-success,
+#orange .btn-success:hover,
+#orange .btn-danger,
+#orange .btn-danger:hover, 
+>>>>>>> ecfce5516649226c9f9c25106a1dfd38ba1bae0c
 #orange .btn-warning,
 #orange .btn-warning:hover {color: #fff;}
 #red .nav-tabs .active a,
@@ -465,4 +576,8 @@
     #pink #sub-page .custom-dropdown .dropdown-menu li a:hover,
     #orange .custom-dropdown .dropdown-menu li a:hover,
     #orange #sub-page .custom-dropdown .dropdown-menu li a:hover {color: #c3c7c9;}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ecfce5516649226c9f9c25106a1dfd38ba1bae0c
